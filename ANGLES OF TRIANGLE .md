@@ -21,3 +21,19 @@ int main (void)
 
   return 0 ; 
 }
+*/OUTPUT : 
+**FOR INVALID ANGLES :
+1.ENTER THE ANGLES OF TRIANGLE: 
+ enter the  value of a :50  
+ enter the value of b: 50
+ enter the value of c:50
+ invalid angles 
+ 
+ **FOR EQUILATERAL TRIANGLE :
+2.ENTER THE ANGLES OF TRIANGLE: 
+enter the  value of a :60
+enter the value of b: 60
+enter the value of c:60
+equilateral triangle 
+
+
