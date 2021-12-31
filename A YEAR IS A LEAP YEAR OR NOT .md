@@ -24,5 +24,9 @@ int main ()
 }
 
 **OUIPUT-
+CASE 1 :
 Enter a year : 2020
 2020 is a leap year.
+CASE2:
+Enter a year : 2022
+2022 is not a leap year.
