@@ -23,7 +23,7 @@ int main ()
 	return 0 ;
 }
 
-**OUIPUT-
+\**OUIPUT-
 CASE 1 :
 Enter a year : 2020
 2020 is a leap year.
